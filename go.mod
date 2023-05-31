@@ -1,3 +1,3 @@
-module github.com/tsing/goDemo
+module github.com/TsingLiang/goDemo
 
 go 1.19
