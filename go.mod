@@ -1,3 +1,3 @@
-module github/test/goDemo
+module github.com/test/goDemo
 
 go 1.19
